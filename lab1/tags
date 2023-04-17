@@ -1,0 +1,3 @@
+    play #1 (webservers): Install nginx package from epel repo
+TAGS: []
+        TASK TAGS: [nginx-package, packages]
